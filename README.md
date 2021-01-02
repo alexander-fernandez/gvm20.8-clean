@@ -1,1 +1,1 @@
-# openvas11-clean
+# gvm20.8-clean
